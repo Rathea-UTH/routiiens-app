@@ -1,0 +1,28 @@
+***********************
+Reading Input Dataset:
+***********************
+Ouverture de travel_times:
+Done!
+Ouverture de route_data:
+Done!
+Ouverture de package_data:
+Done!
+Modification de route_data:
+Done!
+************************
+Finding route sequence :
+************************
+RouteID_bcc07fea-86d2-41e4-9a58-cfc78956dcc7: Sequence found in 32.24 seconds for the route n°7
+RouteID_d1a8c3dd-fa67-455c-a68d-af2fd6aa5d91: Sequence found in 33.33 seconds for the route n°8
+RouteID_2b8df66d-fcd4-438e-931c-3b84b36a5c6b: Sequence found in 33.95 seconds for the route n°10
+RouteID_a8f0009d-e50a-49c9-84d3-f9885ad14a54: Sequence found in 34.32 seconds for the route n°6
+RouteID_7f5d87f0-c39f-434f-bf3f-b159ef321909: Sequence found in 35.93 seconds for the route n°4
+RouteID_f3261fad-5f97-44f6-ae7f-cf169f5d6452: Sequence found in 35.98 seconds for the route n°11
+RouteID_fffd257c-3041-4736-be7a-5efea8af1173: Sequence found in 36.26 seconds for the route n°12
+RouteID_5486294a-503f-4346-b8a9-862e988cbe7c: Sequence found in 39.1 seconds for the route n°2
+RouteID_15baae2d-bf07-4967-956a-173d4036613f: Sequence found in 39.28 seconds for the route n°0
+RouteID_693060a6-88bb-4324-9e9c-925d5240263c: Sequence found in 39.34 seconds for the route n°3
+RouteID_e6687a05-2453-4edc-b86c-7558ab6d93f6: Sequence found in 10.04 seconds for the route n°9
+RouteID_9475872b-287f-4c2c-8e29-887766a4e090: Sequence found in 9.52 seconds for the route n°5
+RouteID_3f166f0e-fd2e-47ab-96a0-6cbc99cc6eef: Sequence found in 12.07 seconds for the route n°1
+
